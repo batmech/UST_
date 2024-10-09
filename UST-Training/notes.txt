@@ -1,0 +1,71 @@
+UST Training Breaks:
+
+Forenoon session:
+11:00-11:15 AM
+
+Afternoon session:
+4:00 - 4:15 PM
+
+Approx Portion Split:
+Week 1 - Advanced Python (decoractors, pthreads, etc)
+Week 2 - APIs, REST
+Week 3 - Security
+Week 4 - Frontend (Bootstrap, etc)
+Week 5 - ReactJs, REST API Integration
+Week 6 - Project
+
+Boilerplate Code: Skeleton type code
+Pseudo Code: Contains more coding terms
+Algorithm: Contains more English
+
+Traits of Good Programmer:
+-coding
+-communication
+-problem solving
+-team player
+-time management
+-documentation
+-adaptability
+-readability
+-performance
+-time complexity
+-space complexity
+
+
+LINUX COMMANDS:
+pwd, ls, cd, cd .., mkdir, rm -rf,grep, 
+cat, touch, mv, echo, whoami, ping, chmod 777, chown
+
+Shallow and Deep Copy 
+Shallow Copy: Stores the references of object ie, changes made are reflected back
+Deep Copy: Stores the copy of the values of object
+
+global functions:
+global() [var] = value (This is done inside a functions have same var name)
+It's a dictionary
+
+Nesting Rules:
+LEGB (Local, Enclosing, Global, Built-In)
+
+
+Constructor is called 'magic method' because it is called 
+implicitly. (not just the Constructor)
+
+We can make a method inside a class static by not passing the 
+self argument.
+
+Access modifier in Python: public, private, strongly private
+Essentially adding '_' to the variable names.
+private would have one '_', strongly private will have 2 of em.
+To change strongly private value, objectName._ClassName__var (mangaling process)
+
+Magic methods of a Class: dir(className)
+__new__ is a magic method, useful in dealing with APIs
+__new__ is called before __init__
+
+Context Manager:
+Alloactes and release resources when you want to.
+Eg: as, with (used in files, exception handling etc)
+Magic methods such as __enter__ and __exit__ are used 
+
+belt, hangers, adhesive hooks, trimmer, 

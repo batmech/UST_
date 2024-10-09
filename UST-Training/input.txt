@@ -1,0 +1,56 @@
+allwynbatthomas@gmail.com
+jamesbond007@gmail.com
+jamesbond007
+AllwynbatThomas  
+
+Hello how are you , what are you doing?
+
+Regex: /^(\+\d{1,3}[- ]?)?\d{10}$/
+
+^ start of line
+
+A + followed by \d+ followed by a or - which are optional.
+
+Whole point two is optional.
+
+Negative lookahead to m...
+
+nibubJohn
++95 9645026149
++966 9645473621
++919645273621
+0912311222
+981231231
+Once in the bustling town of Maplewood, a group of friends stumbled upon an old, dusty phone book in the attic of their favorite café, The Whimsical Bean. Intrigued, they decided to embark on a little adventure, calling random numbers to see what stories they might uncover.
+
+1. **Phone Number: 555-0123**
+   - When they dialed, a cheerful voice answered. It was Mr. Jenkins, the local librarian, who shared tales of mysterious books that could transport readers to other worlds.
+
+2. **Phone Number: 555-4567**
+   - Next, they reached out to a quirky artist named Clara, who invited them to her studio for an impromptu art class. She could be reached at **clara.artista@email.com**.
+
+3. **Phone Number: 555-8910**
+   - They called a vintage clothing shop and spoke to Lily, who revealed she had a treasure trove of costumes from every decade. She was passionate about hosting themed parties, reachable at **lily.vintage@email.com**.
+
+4. **Phone Number: 555-2345**
+   - A mysterious voice on the line turned out to be Sam, an amateur magician. He invited the friends to a secret magic show happening that weekend. His email? **sam.magician@email.com**.
+
+5. **Phone Number: 555-6789**
+   - The next number led them to a retired detective named Mr. Harper, who regaled them with tales of unsolved mysteries in Maplewood. His contact was **detective.harper@email.com**.
+
+6. **Phone Number: 555-3456**
+   - They called a bakery and spoke to Rosie, who shared her grandmother’s secret recipe for chocolate chip cookies. She promised to send it via email: **rosie.bakes@email.com**.
+
+7. **Phone Number: 555-7890**
+   - A sleepy voice answered; it was Tom, a local fisherman, who told them about his biggest catch ever. He was eager to share fishing tips at **tom.fisherman@email.com**.
+
+8. **Phone Number: 555-0987**
+   - This number led them to Sarah, a local historian, who offered to give them a tour of Maplewood's haunted spots. She could be contacted at **sarah.history@email.com**.
+
+9. **Phone Number: 555-4321**
+   - The next call connected them to a tech-savvy teenager named Jake, who ran a gaming blog. He was excited to collaborate on an article and shared his blog’s email: **jake.gamer@email.com**.
+
+10. **Phone Number: 555-5678**
+    - Finally, they reached Emma, a passionate gardener, who invited them to her community garden. She promised to share her gardening tips at **emma.green@email.com**.
+
+After a day filled with laughter and new connections, the friends gathered back at The Whimsical Bean, buzzing with stories and plans for future adventures. They realized that sometimes, a simple call could lead to unexpected friendships and unforgettable experiences.

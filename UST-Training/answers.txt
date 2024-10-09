@@ -1,0 +1,27 @@
+FlowChart, Algorithm, Pseudo Code of Factorial of Number
+
+Algorithm:
+1. Start
+2. Enter input from user into num
+3. Check if num is less 0:
+    3.1 Print 'Not defined for negative nunbers'
+4. Set fact as 1
+5. Loop i from 2 to num:
+	5.1 Multiply fact with i
+6. Print fact
+
+Pseudo Code:
+Step 1: Declare N and F as integer variable.
+Step 2: Initialize F=1.
+Step 2: Enter the value of N.
+Step 3: Check whether N>0, if not then F=1.
+Step 4: If yes then, F=F*N
+Step 5: Decrease the value of N by 1 .
+Step 6: Repeat step 4 and 5 until N=0.
+Step 7: Now print the value of F.
+
+
+
+
+
+
